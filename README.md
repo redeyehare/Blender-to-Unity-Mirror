@@ -35,7 +35,8 @@ Blender to Unity 同步数据插件
 
 创建mesh
 
-![image.png](attachment:e39bafd9-f3b4-40dd-81b2-1225a9a7f7b6:image.png)
+<img width="519" height="168" alt="image" src="https://github.com/user-attachments/assets/65f3328b-095b-443e-bb7b-0a17fd0e76ef" />
+
 
 同步资源
 
